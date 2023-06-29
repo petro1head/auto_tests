@@ -23,4 +23,4 @@ jobs:
         run: sudo apt-get install xvfb
 
       - name: Running the Python script
-        run: python auto_test.py
+        run: python auto_test_class.py
