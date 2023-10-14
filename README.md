@@ -3,10 +3,13 @@
 Написание автотестов на питоне для проверки логина и пароля на сайте
 
 ___Алгоритм действий___
-+ Зайти на главную страницу
++ [Зайти на главную страницу](https://www.saucedemo.com/)
 + Заполнить поле Username
 + Заполнить поле Password
 + Нажать на кнопку Login
+
+  ![Сайт,для которого делается проверка](https://github.com/petro1head/auto_tests/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0.png )
+
 
 ```Python
 from selenium import webdriver
