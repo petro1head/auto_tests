@@ -18,7 +18,7 @@ ___Алгоритм действий___
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/petro1head/auto_tests/blob/main/Image/проверка.jpg">
+  <img width="300" height="300" src="/Image/проверка.jpg">
 </p>
 
 ***
@@ -29,7 +29,7 @@ ___Алгоритм действий___
 </p>
 
 <p align="center">
-  <img width="550" height="300" src="https://github.com/petro1head/auto_tests/blob/main/Image/Успешно.jpg">
+  <img width="550" height="250" src="/Image/Успешно.jpg">
 </p>
 
 ***
