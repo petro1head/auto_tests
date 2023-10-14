@@ -1,6 +1,7 @@
 [![Run Selenium On GitHub Action](https://github.com/petro1head/auto_tests/actions/workflows/main.yml/badge.svg)](https://github.com/petro1head/auto_tests/actions/workflows/main.yml)
 # auto_tests
-Написание автотестов на питоне для проверки логина и пароля на сайте
+
+   Написание автотестов на питоне для проверки логина и пароля на сайте
 
 ___Алгоритм действий___
 + [Зайти на главную страницу](https://www.saucedemo.com/)
@@ -8,9 +9,31 @@ ___Алгоритм действий___
 + Заполнить поле Password
 + Нажать на кнопку Login
 
-  ![Сайт,для которого делается проверка](https://github.com/petro1head/auto_tests/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0.png )
+***
 
+<p align="center">
+ <b>
+   Сайт для авторизации
+ </b> 
+</p>
 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/petro1head/auto_tests/blob/main/Image/проверка.jpg">
+</p>
+
+***
+<p align="center">
+ <b>
+   Успешно авторизовались
+ </b> 
+</p>
+
+<p align="center">
+  <img width="550" height="300" src="https://github.com/petro1head/auto_tests/blob/main/Image/Успешно.jpg">
+</p>
+
+***
+ 
 ```Python
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
